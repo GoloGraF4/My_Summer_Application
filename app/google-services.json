@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567276149294",
+    "project_id": "popoe-674f2",
+    "storage_bucket": "popoe-674f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567276149294:android:01f71635cb285a312b1dbf",
+        "android_client_info": {
+          "package_name": "com.example.mysummerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567276149294-ng5qtl7rt01o3n7i0sv6kj0qjn1ad3ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQubcv7eLeXA_Is7ZCSuiRnxcYAIdko4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567276149294-ng5qtl7rt01o3n7i0sv6kj0qjn1ad3ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
