@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Summer Application</string>
+    <string name="the_world">The World!</string>
+    <string name="start">Start</string>
+    <string name="register">Register</string>
+    <string name="mainMenu">База данных учащихся</string>
+    <string name="reg">Регистрация</string>
+    <string name="enter">Войти</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="name">Name</string>
+    <string name="post">Электронная почта</string>
+</resources>
